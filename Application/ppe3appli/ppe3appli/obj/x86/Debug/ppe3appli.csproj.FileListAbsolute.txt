@@ -1,0 +1,7 @@
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\bin\Debug\ppe3appli.exe
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\bin\Debug\ppe3appli.pdb
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\obj\x86\Debug\ppe3appli.Form1.resources
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\obj\x86\Debug\ppe3appli.Properties.Resources.resources
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\obj\x86\Debug\ppe3appli.csproj.GenerateResource.Cache
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\obj\x86\Debug\ppe3appli.exe
+C:\Users\ecolin\Documents\Visual Studio 2010\Projects\ppe3appli\ppe3appli\obj\x86\Debug\ppe3appli.pdb
